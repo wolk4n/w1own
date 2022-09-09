@@ -8,6 +8,7 @@ ast, requests, sys, optparse
 `git clone https://github.com/wol4n/w1own`
 
 `cd w1own/`
+
 `python w1own.py -l sites.txt -f index.html`
 
 ## Video
