@@ -12,4 +12,4 @@ ast, requests, sys, optparse
 `python w1own.py -l sites.txt -f index.html`
 
 ## Video
-(https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+https://www.youtube.com/watch?v=vhPW69rigqUyou
