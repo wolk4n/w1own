@@ -10,6 +10,3 @@ ast, requests, sys, optparse
 `cd w1own/`
 
 `python w1own.py -l sites.txt -f index.html`
-
-## Video
-https://www.youtube.com/watch?v=vhPW69rigqUyou
