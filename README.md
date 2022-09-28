@@ -1,5 +1,5 @@
 # W1OWN
-Hedef sitelere belirlediğiniz dosyayı upload eden exploit. Upload edilecek dosya ".html" formatında olmalıdır.
+Hedef sitelere belirlediğiniz dosyayı upload eden exploit. Upload edilecek dosya ".html" formatında olmalıdır. Auto İndex Upload Exploit
 
 ## Kullanılan Kütüphaneler
 ast, requests, sys, optparse
