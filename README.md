@@ -11,4 +11,4 @@ ast, requests, sys, optparse
 
 `python w1own.py -l sites.txt -f index.html`
 
-It is an exploit created entirely for educational purposes.
+This exploit created for educational purposes.
